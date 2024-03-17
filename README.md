@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Akıncı</h1>
 <h3 align="center">I'm Mohammed from Turkey. As a young software enthusiast, I work in this field and I pay great attention to my studies. Even though I mainly work in Artificial Intelligence and Aviation, I also work in Web Development as a hobby.</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/M9kgjEsLG6LMbYC9dl/200w.gif?cid=82a1493baj6kkqlds1wzcmwf55506xs6pa7y2yxbho3kbp1k&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedakinci&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedakinci" /> </p>
 
