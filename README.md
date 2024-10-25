@@ -1,6 +1,8 @@
 Hi, I'm Muhammed Akıncı. Passionate AI & Blockchain developers from Turkey
 
 # 🏆 Hackathon Achievements
+- Solana Global Radar Hackathon Zero Track (Winner 4th🏆) | Oct 2024
+- Solana Demoday (Winner🥉) | Oct 2024
 - Solana Hackathon (Winner🥇) | Sep 2024
 - Solana Mini Hackathon (Winner🥇) | March 2024
 - Solana Demoday (Winner🥈) | March 2024
