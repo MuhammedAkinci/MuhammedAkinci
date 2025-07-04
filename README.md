@@ -1,6 +1,7 @@
 Hi, I'm Muhammed Akıncı. Passionate AI & Blockchain developers from Turkey
 
 # 🏆 Hackathon Achievements
+- Stellar Hack Pera DeFi Track (Winner🥉) | Jun 2025
 - Units Network Blockchain Hackathon (Winner 4th🏅) | Feb 2025
 - Kapsül Blockchain Hackathon (Winner🏆) | Feb 2025
 - Solana Global Radar Hackathon Zero Track (Winner 4th🏆) | Oct 2024
