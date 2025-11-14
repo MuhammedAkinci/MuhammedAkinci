@@ -1,5 +1,3 @@
-Hi, I'm Muhammed Akıncı. Passionate AI & Blockchain developers from Turkey
-
 # 🏆 Hackathon Achievements
 - Monad Blitz Hackathon (Honorable Mention🏆) | Oct 2025
 
