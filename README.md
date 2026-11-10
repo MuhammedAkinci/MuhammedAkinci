@@ -1,5 +1,6 @@
 # 🏆 Hackathon Achievements
 - Colosseum Crypto World’s Fair: Superteam Türkiye Local Track (Winner🥉) | Nov 2026
+- $1.3M Marketcap on Robinhood Chain 🌿 | Sep 2026
 - Build_ on Sui Hackathon (Winner 4th🏅) | Oct 2025
 - Monad Blitz Hackathon (Honorable Mention🏆) | Oct 2025
 - CoreDAO Global Buildathon (Semi-Finalist🏆) | Sep 2025
